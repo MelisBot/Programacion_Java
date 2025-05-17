@@ -1,3 +1,4 @@
+/*Creado por:Lic.Melissa Jiménez | Curso BEDU+Tecnolochicas |Sesión Cinco*/
 package Sesion_5.Reto2;
 
 public class CajaRegistradora {

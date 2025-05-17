@@ -1,4 +1,4 @@
-//Creado por Melissa Jiménez González
+/*Creado por:Lic.Melissa Jiménez | Curso BEDU+Tecnolochicas |Sesión Uno*/
 package Sesion_1.Reto_1;
 
 import java.util.InputMismatchException;

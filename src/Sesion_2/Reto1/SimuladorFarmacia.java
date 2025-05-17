@@ -1,4 +1,4 @@
-/*Reto 1 Sesion 2 | Creado: Melissa Jiménez G.*/
+/*Creado por:Lic.Melissa Jiménez | Curso BEDU+Tecnolochicas |Sesión Dos*/
 package Sesion_2.Reto1;
 import java.util.Scanner;
 
