@@ -1,5 +1,5 @@
 //Creado por Melissa Jiménez González
-package Reto2;
+package Sesion_1.Reto2;
 /*
 public class Entrada{
    String nombreEvento;

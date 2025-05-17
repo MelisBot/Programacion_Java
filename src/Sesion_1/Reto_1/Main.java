@@ -1,5 +1,6 @@
 //Creado por Melissa Jiménez González
-package Reto1;
+package Sesion_1.Reto_1;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -8,7 +9,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         //Llamamos a la clase Paciente
-        Paciente  paciente = new Paciente();
+        Paciente paciente = new Paciente();
 
         /*Usaremos el manejo de Excepciones para capturar los errores al recibir datos
         inesperados, en java se usa try-catch*/

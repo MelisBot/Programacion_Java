@@ -1,10 +1,11 @@
 //Creado por Melissa Jiménez González
-package Reto1;
+package Sesion_1.Reto_1;
 public class Paciente {
     // Atributos a utilizar
     String paciente;
     String expediente;
     int edad;
+
 
     //Creamos el metodo publico para mostrar la informacion
     public void mostrarInformacion(){
