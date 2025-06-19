@@ -12,7 +12,7 @@ La carpeta está organizada por sesiones, y cada sesión incluye uno o más reto
 El primer src contiene las carpetas de las sesiones y dentro de ellas sus retos.
 
 ## 🎯 Objetivo
-
+### Primera parte del curso.
 Desarrollar habilidades prácticas en Java mediante ejercicios progresivos, aplicando:
 
 - Variables, condicionales y ciclos
@@ -20,7 +20,9 @@ Desarrollar habilidades prácticas en Java mediante ejercicios progresivos, apli
 - Programación orientada a objetos (POO)
 - Estructuras de datos
 - Entrada y salida de archivos
-
+### Segunda parte del curso.
+La segunda parte se encuentra en la carpeta JavaIntermedio:
+ - Contiene retos por cada sesion
 ## 🚀 Cómo ejecutar los programas
 
 1. Abre el proyecto en **IntelliJ IDEA** o cualquier IDE Java.
@@ -29,4 +31,4 @@ Desarrollar habilidades prácticas en Java mediante ejercicios progresivos, apli
 
 ---
 
-> Este repositorio es parte del aprendizaje continuo de Melissa JG en el área de desarrollo en Java. Cada archivo refleja el progreso semanal en la materia de programación.
+> Este repositorio es parte del aprendizaje en el curso de Tecnolochicas FT + BEDU, contienen solo los retos de las 2 partes del curso.
